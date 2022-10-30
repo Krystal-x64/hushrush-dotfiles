@@ -11,15 +11,10 @@ The functionality of this environment is aimed at pentesting, and has been teste
 
 #### Default look 
 ![Default look](screenshots/1.jpg)
-#### BSPWM
+#### BSPWM, Thunar , Rofi
 ![Default look](screenshots/2.jpg)
-![Default look](screenshots/4.jpg)
-#### Thunar
-![Default look](screenshots/3.jpg)
-#### VsCode
-![Default look](screenshots/5.jpg)
 #### Utilities for HTB at Polybar 
-![Default look](screenshots/6.jpg)
+![Default look](screenshots/3.jpg)
 
 -----
 
@@ -37,7 +32,7 @@ Once Parrot is installed you should install bspwm and sxhkd
 Next would be a series of packages that I installed before I started copying dotfiles:
 
 `sudo apt install cmake cmake-data pkg-config python3-sphinx libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb- image0-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-xkb-dev libxcb-xrm-dev libxcb-cursor-dev libasound2-dev libpulse-dev libjsoncpp-dev libmpdclient-dev libuv1-dev libnl-genl- 3-dev meson libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-render0-dev libxcb-composite0-dev libxcb-image0- dev libxcb-present-dev libxcb-xinerama0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl1-mesa-dev libpcre2-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev libxcb-glx0-dev
-build-essential git vim xcb libxcb-util0-dev libxcb-ewmh-dev libxcb-randr0-dev libxcb-icccm4-dev libxcb-keysyms1-dev libxcb-xinerama0-dev libxcb-xinerama0- dev libasound2-dev libxcb-xtest0-dev libxcb-shape0-dev thunar imagemagick kitty neofetch feh lolcat picom zsh locate openvpn lxappearance`
+build-essential git vim xcb libxcb-util0-dev libxcb-ewmh-dev libxcb-randr0-dev libxcb-icccm4-dev libxcb-keysyms1-dev libxcb-xinerama0-dev libxcb-xinerama0- dev libasound2-dev libxcb-xtest0-dev libxcb-shape0-dev thunar imagemagick kitty neofetch feh lolcat picom zsh locate openvpn lxappearance neo4j bloodhound libc6-x32`
 
 I then proceeded to install the polybar, lsd, bat powerlevel10k, zsh-autosuggestions, zsh-syntax-highlighting from their github repositories :
 [https://github.com/polybar/polybar](https://github.com/polybar/polybar)

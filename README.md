@@ -10,11 +10,11 @@ The functionality of this environment is aimed at pentesting, and has been teste
 ### Screenshots
 
 #### Default look 
-![Default look](screenshots/1.jpg)
+![Default look](1.jpg)
 #### BSPWM, Thunar , Rofi
-![Default look](screenshots/2.jpg)
+![Default look](2.jpg)
 #### Utilities for HTB at Polybar 
-![Default look](screenshots/3.jpg)
+![Default look](3.jpg)
 
 -----
 

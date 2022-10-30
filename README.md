@@ -126,4 +126,4 @@ Any doubt you can send me a message (English or Spanish) my idea is not to offer
 
 ### Acknowledgment
 
-Special thanks to [https://github.com/xndko](https://github.com/xndko) and [https://github.com/s4vitar](https://github.com/s4vitar) as this repository would not have been possible if I had not relied on their working environments.
+Special thanks to [https://github.com/xndko](https://github.com/xndko), [Bleyom](https://github.com/bleyom) and [https://github.com/s4vitar](https://github.com/s4vitar) as this repository would not have been possible if I had not relied on their working environments.
